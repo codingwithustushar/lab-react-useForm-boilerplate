@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+.form {
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(13, 13, 13, 0.459);
+  align-items: center;
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin-bottom: 1px;
+
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin-bottom: 12px;
+}
+.btn{
+  background-color: rgba(187, 255, 0, 0.848);
+  border: none;
+}
+.err{
+  margin: 0%;
+  margin-bottom: 10px;
+}
